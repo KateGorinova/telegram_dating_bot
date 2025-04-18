@@ -1,4 +1,4 @@
-# Telegram-бот для знакомств и фотобаттлов
+# Telegram-бот для знакомств и фотобаттлов "Twinkl"
 Токарев Алексей, Горинова Екатерина
 
 Телеграм-бот для знакомств с уникальной системой фотобаттлов. Бот включает регистрацию, создание анкеты, поиск партнеров и возможность участия в соревнованиях с другими пользователями.
@@ -41,3 +41,4 @@
    git clone https://github.com/ваш_username/telegram-dating-bot.git
    
 Видеоотчет + Тесты: https://drive.google.com/file/d/1e-h4BuT2CqT_FKdX1RvXJDItjvBRZ3Uu/view?usp=sharing
+Ссылка на бота: https://t.me/twinkl_datebot
